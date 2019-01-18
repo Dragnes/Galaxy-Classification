@@ -18,7 +18,7 @@ There are three major types of galaxies:
 
     a) Jupyter is an open-source software for interactive computing across dozens of programming languages.
     
-    b) Tensorflow is an open-source framework.
+    b) Tensorflow is an open-source framework for Artificial Neural Networks.
     
     c) Keras is an open-source deep learning library, capable of running on top of TensorFlow.
     
